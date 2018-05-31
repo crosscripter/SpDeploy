@@ -1,0 +1,8 @@
+C:\Users\MichaelS\Dropbox\Code\C#\SpDeploy\SpDeploy\bin\Debug\SpDeploy.exe
+C:\Users\MichaelS\Dropbox\Code\C#\SpDeploy\SpDeploy\bin\Debug\SpDeploy.pdb
+C:\Users\MichaelS\Dropbox\Code\C#\SpDeploy\SpDeploy\obj\x86\Debug\SpDeploy.MainForm.resources
+C:\Users\MichaelS\Dropbox\Code\C#\SpDeploy\SpDeploy\obj\x86\Debug\SpDeploy.Properties.Resources.resources
+C:\Users\MichaelS\Dropbox\Code\C#\SpDeploy\SpDeploy\obj\x86\Debug\SpDeploy.csproj.GenerateResource.Cache
+C:\Users\MichaelS\Dropbox\Code\C#\SpDeploy\SpDeploy\obj\x86\Debug\SpDeploy.exe
+C:\Users\MichaelS\Dropbox\Code\C#\SpDeploy\SpDeploy\obj\x86\Debug\SpDeploy.pdb
+C:\Users\MichaelS\Dropbox\Code\C#\SpDeploy\SpDeploy\obj\x86\Debug\SpDeploy.csprojResolveAssemblyReference.cache
